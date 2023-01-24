@@ -11,8 +11,6 @@ function Education() {
 
             </p>
         </div >
-
-
     );
 }
 
